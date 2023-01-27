@@ -10,5 +10,11 @@
 
 ##  Requerimientos:
 ### Instalar Flask: `pip install Flask`
-Si ya lo tienen y quieres actualizarlo
+Si ya lo tiene y quieres actualizarlo
 ### Actualizar Flask: `pip install -U Flask`
+
+
+
+
+
+#   [Versión con JavaScript](https://github.com/mssj-11/API-GIPHY_Js)
